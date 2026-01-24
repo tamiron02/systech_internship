@@ -2,10 +2,7 @@ package java_systechtraining;
 
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
+
 public class calc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

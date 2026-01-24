@@ -1,6 +1,6 @@
 // Created by Christine Tamiron Kipchumba
 
-package java_systechtraining.Assessment;
+package java_systechtraining.Assessments;
 
 import java.util.Scanner;
 
