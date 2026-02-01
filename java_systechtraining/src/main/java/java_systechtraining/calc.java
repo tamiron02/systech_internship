@@ -70,4 +70,5 @@ public class calc {
         }
         scanner.close();
     }
+
 }
